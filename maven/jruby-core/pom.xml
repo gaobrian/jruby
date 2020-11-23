@@ -56,7 +56,7 @@
     <dependency>
       <groupId>com.github.jnr</groupId>
       <artifactId>jnr-constants</artifactId>
-      <version>0.8.4</version>
+      <version>0.10.0</version>
     </dependency>
     <dependency>
       <groupId>org.jruby.jcodings</groupId>
